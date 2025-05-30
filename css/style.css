@@ -856,6 +856,10 @@ footer>div>div {
 
     /* dishes-section */
 
+    .dishes-section>div>div{
+        gap: 55px;
+    }
+
     .bottom-sec {
         padding: 0 35px;
     }
